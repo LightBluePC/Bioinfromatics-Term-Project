@@ -1,7 +1,7 @@
 # Bioinfromatics-Term-Project
 Analyzing and comparing DNA strands from different Species using C++.
 
-# Inportant things to note
+# Important things to note
 
 1. the .rar files are compressed to decompress the proper extention should be .maf because these are alignment files from 2 differnt species
 
