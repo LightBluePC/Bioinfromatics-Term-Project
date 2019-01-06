@@ -10,12 +10,10 @@ Final presentation goes over my results and problems with this code check that o
 
 # Credits
 This was a group project by 3 Northern Illinois University students
-Me (David Bierc)
-Vamsi Chunduri
-Ashton Dsouza
-
-
-with help from our professor 
+Me (David Bierc),
+Vamsi Chunduri,
+Ashton Dsouza.
+We also had guidance and help from our professor 
 Hou, Minmei 
 Associate Professor 
 Ph.D., Pennsylvania State University
